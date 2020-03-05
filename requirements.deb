@@ -1,0 +1,4 @@
+python-rpi.gpio
+python-requests
+python-smbus
+python-spidev

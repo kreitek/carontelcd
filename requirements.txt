@@ -1,0 +1,3 @@
+RPi.GPIO
+requests
+git+https://github.com/lthiery/SPI-Py.git
